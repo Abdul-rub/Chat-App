@@ -7,7 +7,7 @@ import { Route, Routes } from "react-router-dom";
 import Homepage from './Pages/Homepage';
 import ChatPage from './Pages/ChatPage';
 
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://chatapp-backend-eqkr.onrender.com";
 
 
 

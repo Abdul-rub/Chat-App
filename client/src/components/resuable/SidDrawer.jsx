@@ -26,6 +26,7 @@ const SidDrawer = () => {
   const logoutHandler = () => {
     localStorage.removeItem("userInfo")
     navigate('/')
+    window.location.reload()
   }
 
 
@@ -68,7 +69,7 @@ const SidDrawer = () => {
 
 
   const accessChat = async (userId) => {
-    console.log(userId);
+    // console.log(userId);
 
     try {
       setLoadingChat(true);
