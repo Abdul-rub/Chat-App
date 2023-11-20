@@ -1,20 +1,28 @@
 # Chat-App
-Simple Chat App with Features like
+<h1>Simple Chat App with Features like</h1>
 
-1) Authentication
-<img width="1080" alt="register" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/9bb32935-4a08-449a-ba2b-339ec5a7195b">
+<h3>1) Authentication</h3>
 
-3) User Profile
-<img width="1080" alt="profile" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/4c4fe3cc-c0a7-4382-812a-4a2e721665b7">
+
+<img width="1080" alt="register" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/3a02dfa1-e0c3-4d38-a461-44094e3f41aa">
+
+<h3>2) User Profile</h3>
    
-5) Search Users
-<img width="1080" alt="search" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/84bbdd48-9794-4271-bf13-5726e11c034e">
-   
-7) One to One chat
-<img width="1080" alt="onetoone" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/1ae0ffa4-c5d3-4fd5-89ae-8723182c41d1">
+<img width="1043" alt="profile" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/555e1ccd-d67f-47eb-803d-182eb9aefea2">
 
-8) Group Chat
-<img width="1080" alt="groupchat" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/389fe0e9-e79d-4d96-b097-86f28e87e547">
+   
+<h3>3) Search Users</h3>
+<img width="1048" alt="search" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/e12ac00b-c76e-42e7-b5b6-8fa0e6419677">
+
+
+   
+<h3>4) One to One chat</h3>
+<img width="1080" alt="onetoone" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/7bcb3080-b547-4c27-8272-49e6e396e4eb">
+
+
+<h3>5) Group Chat</h3>
+<img width="1080" alt="groupchat" src="https://github.com/Abdul-rub/Chat-App/assets/70228714/09cb07e6-afbf-4a1e-9c3a-e12d46a932e2">
+
 
 
 
